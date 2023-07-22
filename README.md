@@ -3,15 +3,15 @@ This project is an Online Voting Management System implemented in C++. The main 
 
 ## Key Features:
 
-### User Registration: 
+#### User Registration: 
 Users can create accounts by providing necessary details for authentication and eligibility verification.
-### Login System: 
+#### Login System: 
 Secure user authentication ensures that only authorized individuals can access the voting platform.
-### Voting Process: 
+#### Voting Process: 
 Voters can cast their ballots for candidates through an intuitive voting interface.
-### File Organization: 
+#### File Organization: 
 The project emphasizes robust file handling techniques to maintain data consistency and prevent data corruption during concurrent access.
-### Data Security: 
+#### Data Security: 
 Measures are in place to ensure the confidentiality and integrity of sensitive voting data.
 
 
